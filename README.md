@@ -9,6 +9,9 @@ I started building computers at the age of 10. My love for computers and technol
 ## CTF & Training
 
 click me!
+
+
+
 <a href=https://tryhackme.com/p/Juxtapose><img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
 
 ## Skills
