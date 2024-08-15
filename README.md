@@ -5,7 +5,7 @@ A cybersecurity student with a passion for technology!
 
 ## About Me
 
-My love for computers and technology has led me to pursue a degree in Cybersecurity.
+I'm 20 years old originally from South Africa, however I am currently staying in the Åland Islands. I have been interested in technology from a young age, and it has led me to develop a passion for cybersecurity. Looking to start a job as either a Jr. Penetration Tester, or as a Security Operations Center (SOC) Tier 1 Analyst.
 
 ## CTF & Training
 
@@ -40,11 +40,6 @@ click me!
 ### Endpoint
 <div>
    
-</div>
-
-### SIEM
-<div>
-    
 </div>
 
 
