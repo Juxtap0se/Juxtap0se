@@ -1,5 +1,13 @@
+# Hello, I'm Kai
+
+## THM
+<a> My <a href=https://tryhackme.com/p/Juxtapose>THM</a> Profile</a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
-<a> My <a href=https://tryhackme.com/p/Juxtapose>Try Hack Me</a> Profile</a>
+
+## Skills
+
+
+
 
 <!--
 **Juxtap0se/Juxtap0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
