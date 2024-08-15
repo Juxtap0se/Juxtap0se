@@ -13,7 +13,7 @@ click me!
 
 
 
-<a src=https://tryhackme.com/p/Juxtapose><img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
+<a src=https://tryhackme.com/p/Juxtapose><img href="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
 
 ## Skills
 Linux PrivEsc,
@@ -22,5 +22,5 @@ Python,
 Java
 
 ## Certification
-<img href="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
