@@ -16,7 +16,7 @@ click me!
 
 ## Skills
 Linux PrivEsc,
-Windows PrivEsc,
+Linux CLI,
 Python,
 Java
 
