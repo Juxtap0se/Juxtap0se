@@ -22,6 +22,24 @@ click me!
 | Metasploit          | <a href="https://tryhackme.com/Juxtapose/badges/metasploitable">TryHackMe</a>|
 | Linux | <a href="https://tryhackme.com/Juxtapose/badges/terminaled">TryHackMe</a>|
 
+## Tools
+
+
+### Network
+<div>
+    
+</div>
+
+### Endpoint
+<div>
+   
+</div>
+
+### SIEM
+<div>
+    
+</div>
+
 
 ## Certification
 <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
