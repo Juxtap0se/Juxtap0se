@@ -1,5 +1,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
-<a href=https://tryhackme.com/p/Juxtapose>Try Hack Me</a>
+<a> My <a href=https://tryhackme.com/p/Juxtapose>Try Hack Me</a> Profile</a>
 
 <!--
 **Juxtap0se/Juxtap0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
