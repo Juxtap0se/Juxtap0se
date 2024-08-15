@@ -21,6 +21,7 @@ click me!
 |-----------------------------------------------|----------------------------|
 | Metasploit          | <a href="https://tryhackme.com/Juxtapose/badges/metasploitable">TryHackMe</a>|
 | Linux | <a href="https://tryhackme.com/Juxtapose/badges/terminaled">TryHackMe</a>|
+| Hash Cracking | <a href="https://tryhackme.com/Juxtapose/badges/hash-cracker">TryHackMe</a>|
 
 ## Tools
 
