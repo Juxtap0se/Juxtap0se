@@ -16,10 +16,12 @@ click me!
 <img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
 
 ## Skills
-Linux PrivEsc,
-Linux CLI,
-Python,
-Java
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Metasploit          | <a href="https://tryhackme.com/Juxtapose/badges/metasploitable">TryHackMe</a>|
+| Linux | <a href="https://tryhackme.com/Juxtapose/badges/terminaled">TryHackMe</a>|
+
 
 ## Certification
 <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
