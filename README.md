@@ -28,6 +28,7 @@ click me!
 ### Network
 <div>
    <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/-NetCat-1679A7?&style=for-the-badge&logo=NetCat&logoColor=white" />
 </div>
 
 ### Endpoint
