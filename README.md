@@ -13,7 +13,7 @@ click me!
 
 
 
-<a src=https://tryhackme.com/p/Juxtapose><img href="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
+<a src=https://tryhackme.com/p/Juxtapose><img https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
 
 ## Skills
 Linux PrivEsc,
