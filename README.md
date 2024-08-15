@@ -37,9 +37,10 @@ click me!
 
 </div>
 
-### Endpoint
+### Hash Cracking
 <div>
-   
+   <img src="https://img.shields.io/badge/-John_the_Ripper-00A4EF?&style=for-the-badge&logo=John%20the%20Ripper&logoColor=red" />
+<img src="https://img.shields.io/badge/-Hashcat-00A4EF?&style=for-the-badge&logo=Hashcat&logoColor=black" />
 </div>
 
 
