@@ -1,4 +1,4 @@
-<script src="https://tryhackme.com/badge/2835756"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
 
 <!--
 **Juxtap0se/Juxtap0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
