@@ -4,7 +4,7 @@ A cybersecurity student with a passion for technology!
 
 ## About Me
 
-I started building computers at the age of 10. My love for technology has led me to become passionate about cybersecurity. My main focus has become penetration testing, along with being interested in becoming a Security Analyst. I am currently studying for my Bachelor's Degree in Cybersecurity.
+I started building computers at the age of 10. My love for computers and technology has led me to pursue a degree in Cybersecurity.
 
 ## CTF & Training
 
