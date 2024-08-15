@@ -11,9 +11,9 @@ I started building computers at the age of 10. My love for technology has led me
 <img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
 
 ## Skills
-Linux PrivEsc
-Windows PrivEsc
-Python
+Linux PrivEsc,
+Windows PrivEsc,
+Python,
 Java
 
 
