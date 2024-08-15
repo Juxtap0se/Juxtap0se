@@ -7,7 +7,9 @@ A cybersecurity student with a passion for technology!
 I started building computers at the age of 10. My love for technology has led me to become passionate about cybersecurity. My main focus has become penetration testing, along with being interested in becoming a Security Analyst. I am currently studying for my Bachelor's Degree in Cybersecurity.
 
 ## CTF & Training
-<a href=https://tryhackme.com/p/Juxtapose>Try Hack Me</a>    <img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
+
+click me!
+<a href=https://tryhackme.com/p/Juxtapose><img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
 
 ## Skills
 Linux PrivEsc,
