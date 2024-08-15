@@ -1,10 +1,20 @@
 # Hello, I'm Kai
 
+A cybersecurity student with a passion for technology!
+
+## About Me
+
+I started building computers at the age of 10. My love for technology has led me to become passionate about cybersecurity. My main focus has become penetration testing, along with being interested in becoming a Security Analyst. I am currently studying for my Bachelor's Degree in Cybersecurity.
+
 ## THM
 <a> My <a href=https://tryhackme.com/p/Juxtapose>THM</a> Profile</a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
 
 ## Skills
+Linux PrivEsc
+Windows PrivEsc
+Python
+Java
 
 
 
