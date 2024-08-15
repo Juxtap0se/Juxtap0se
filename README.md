@@ -17,7 +17,7 @@ click me!
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Platform         |
 |-----------------------------------------------|----------------------------|
 | Metasploit          | <a href="https://tryhackme.com/Juxtapose/badges/metasploitable">TryHackMe</a>|
 | Linux | <a href="https://tryhackme.com/Juxtapose/badges/terminaled">TryHackMe</a>|
