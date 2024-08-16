@@ -1,7 +1,7 @@
 # Hello, I'm Kai
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A cybersecurity student with a passion for technology!
+A Tech enthusiast with a passion for cybersecurity!
 
 ## About Me
 
@@ -21,15 +21,21 @@ click me!
 
 
 <div>
-
 <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-EF3B2D?&style=for-the-badge&logo=Burp%20Suite&logoColor=orange" />
 <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-John_the_Ripper-00A4EF?&style=for-the-badge&logo=John%20the%20Ripper&logoColor=red" />
-<img src="https://img.shields.io/badge/-Hashcat-00A4EF?&style=for-the-badge&logo=Hashcat&logoColor=red" />
 </div>
 
 
 ## Certification
+<div>
 <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<!--
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pentest%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+-->
+
+</div>
 
