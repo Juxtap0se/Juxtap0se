@@ -13,7 +13,7 @@ click me!
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/Juxtapose"><img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
 
 
 ## Operating Systems
