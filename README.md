@@ -15,17 +15,6 @@ click me!
 
 <a href="https://tryhackme.com/p/Juxtapose"><img src="https://tryhackme-badges.s3.amazonaws.com/Juxtapose.png" alt="TryHackMe"></a>
 
-
-## Operating Systems
-
-
-
-<div>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-</div>
-
-
 ## Certification
 <div>
 <img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
